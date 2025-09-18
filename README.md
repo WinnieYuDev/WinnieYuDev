@@ -25,7 +25,7 @@ Resume: TBD
 
 Languages learned: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,css,sass,bootstrap,rails,react,nodejs,express,mongo,sqlite,postman,git,tailwind,vercel,stackoverflow,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,sass,bootstrap,rails,react,vite,nodejs,express,mongo,sqlite,postman,git,tailwind,vercel,stackoverflow,vscode,wordpress)](https://skillicons.dev)
 
 # Get in Touch
 
