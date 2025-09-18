@@ -19,7 +19,13 @@ Fun facts about me:
 
 # Skills and Experience
 
-Languages learned: Ruby JavaScript HTML5 CSS3 SASS Bootstrap Rails React NodeJS Express.js MongoDB SQLite Postman Git
+My Porfolio: https://winnieyudev.github.io/
+
+Resume: TBD
+
+Languages learned: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,css,sass,bootstrap,rails,react,nodejs,express,mongo,sqlite,postman,git,tailwind,vercel,stackoverflow,vscode,wordpress)](https://skillicons.dev)
 
 # Get in Touch:
 
