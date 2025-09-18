@@ -18,6 +18,7 @@ Fun facts about me:
 🐯 Tigers are my favorite animal 
 
 # Skills and Experience
+
 Languages learned: Ruby JavaScript HTML5 CSS3 SASS Bootstrap Rails React NodeJS Express.js MongoDB SQLite Postman Git
 
 # Get in Touch:
@@ -27,3 +28,4 @@ Languages learned: Ruby JavaScript HTML5 CSS3 SASS Bootstrap Rails React NodeJS 
 📧 Email: winnieyu.pro@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinnieYuDev&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinnieYuDev&layout=compact)
