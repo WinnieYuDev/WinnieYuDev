@@ -23,6 +23,8 @@ Languages learned: Ruby JavaScript HTML5 CSS3 SASS Bootstrap Rails React NodeJS 
 
 # Get in Touch:
 
+I am looking forward to join exciting web projects. If you have a project idea or need a developer to join your team, feel free to reach out.
+
 💼 LinkedIn: www.linkedin.com/in/winnie-y-67422b141
 
 📧 Email: winnieyu.pro@gmail.com
