@@ -37,6 +37,4 @@ I am looking forward to join exciting web projects. If you have a project idea o
 
 # Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinnieYuDev&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinnieYuDev&layout=compact)
+TBD
