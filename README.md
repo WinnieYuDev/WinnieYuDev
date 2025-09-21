@@ -4,7 +4,7 @@ Nice to meet you. My name is Winnie Yu.
 
 A full-stack software engineer from Boston | Chinese-American | Innovative Scientist 
 
-Turning complex problems into elegant solutions, one line of code at a time
+Revolutionizing the industry, one line of code at a time
 
 # About me
 
