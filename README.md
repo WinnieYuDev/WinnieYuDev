@@ -21,7 +21,7 @@ Fun facts about me:
 
 My Porfolio: https://winnieyudev.github.io/
 
-Resume: [20250918_WinnieYu_Resume_SWE.pdf](https://github.com/user-attachments/files/22418029/20250918_WinnieYu_Resume_SWE.pdf)
+Resume: [My Resume](https://github.com/user-attachments/files/22418029/20250918_WinnieYu_Resume_SWE.pdf)
 
 Languages learned: 
 
