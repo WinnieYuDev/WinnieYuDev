@@ -8,7 +8,7 @@ Revolutionizing the industry, one line of code at a time
 
 # About me
 
-I am a fully dedicated software engineer focused on making full stack web applications with background in food science and technology. I am currently working with a non-profit organization called Resilient Coders with a mission to expand opportunities for minorities and help transition them into tech.
+I am a fully dedicated software engineer focused on making full stack web applications with background in food science and technology. I am currently working as a Software Enginner at Resilient Coders, where I build and deploy collaborative projects that solve real-world problems for various businesses and organizations.
 
 Fun facts about me:
 
