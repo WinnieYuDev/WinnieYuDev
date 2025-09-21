@@ -35,6 +35,3 @@ I am looking forward to join exciting web projects. If you have a project idea o
 
 📧 Email: winnieyu.pro@gmail.com
 
-# Stats
-
-TBD
