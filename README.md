@@ -25,7 +25,7 @@ Resume: [My Resume](https://github.com/user-attachments/files/22418029/20250918_
 
 Languages learned: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,sass,bootstrap,rails,react,vite,nodejs,express,mongo,sqlite,postman,git,tailwind,vercel,stackoverflow,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mongo,stackoverflow,vscode,wordpress)](https://skillicons.dev)
 
 # Get in Touch
 
