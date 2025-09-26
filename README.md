@@ -1,4 +1,5 @@
 # Hello 👋! 
+<img width="1584" height="396" alt="Black Minimalist Motivation Quote LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/5825389f-d845-403b-9a85-dcdad575d852" />
 
 Nice to meet you. My name is Winnie. 
 
