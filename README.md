@@ -36,3 +36,6 @@ I am looking forward to join exciting web projects. If you have a project idea o
 
 📧 Email: winnieyu.pro@gmail.com
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=WinnieYuDev)
+
+
