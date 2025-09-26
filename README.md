@@ -12,7 +12,7 @@ I am a fully dedicated software engineer focused on making full stack web applic
 
 Fun facts about me:
 
-👾 Video game ethusiast \
+👾 Video game Lover \
 🌱 Urban gardener \
 🍲 Self-taught chef \
 🐯 Tigers are my favorite animal 
