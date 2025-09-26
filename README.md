@@ -24,7 +24,7 @@ My Porfolio: https://winnieyudev.github.io/
 Resume: [My Resume](https://github.com/user-attachments/files/22551340/SWE.Winnie.Yu.Resume.1.pdf)
 
 
-Languages learned: HTML5 | CSS | TypeScript | JavaScript | Ruby on Rails | React | Node.js | Express.js | SQL | SQLite | Git | Bootstrap 
+Languages learned: HTML5 | CSS | TypeScript | JavaScript | React | Node.js | Express.js | SQL | SQLite | Git | Bootstrap 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mongo,stackoverflow,vscode,wordpress)](https://skillicons.dev)
 
