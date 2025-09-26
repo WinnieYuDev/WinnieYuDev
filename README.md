@@ -1,6 +1,6 @@
 # Hello 👋! 
 
-Nice to meet you. My name is Winnie Yu. 
+Nice to meet you. My name is Winnie. 
 
 A full-stack software engineer from Boston | Chinese-American | Innovative Scientist 
 
