@@ -3,7 +3,7 @@
 
 Nice to meet you. My name is Winnie. 
 
-A full-stack software engineer from Boston | Chinese-American | Innovative Scientist 
+A full-stack software engineer from Boston | Home-Cook | Innovative Scientist 
 
 Revolutionizing the industry, one line of code at a time
 
