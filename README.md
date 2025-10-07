@@ -37,7 +37,7 @@ I am looking forward to join exciting web projects. If you have a project idea o
 
 📧 Email: winnieyu.pro@gmail.com
 
-💎 My current favorite project is creating product recall website tracker with tailored user experience
+💎 My current favorite project is creating a website that shows users recent food recall news and allows them to look up if their product has had a recall in the past.
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=WinnieYuDev)
 
