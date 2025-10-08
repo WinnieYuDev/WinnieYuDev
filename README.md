@@ -22,7 +22,8 @@ Fun facts about me:
 
 My Porfolio: https://winnieyudev.github.io/
 
-Resume: [My Resume](https://github.com/user-attachments/files/22551340/SWE.Winnie.Yu.Resume.1.pdf)
+Resume: [My Resume](https://github.com/user-attachments/files/22784813/SWE.Winnie.Yu.Resume.3.pdf)
+
 
 
 Languages learned: HTML5 | CSS | TypeScript | JavaScript | React | Node.js | Express.js | SQL | SQLite | Git | Bootstrap 
