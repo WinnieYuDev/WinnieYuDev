@@ -9,7 +9,9 @@ Revolutionizing the industry, one line of code at a time
 
 # About me
 
-I am a fully dedicated software engineer focused on making full stack web applications with background in food science and technology. I am currently working as a Software Engineer at Resilient Coders, where I build and deploy collaborative projects that solve real-world problems for various businesses and organizations. I am also a machine learning enthusiast with a huge love for JavaScript, React, Node.js, MongoDB, REST API and Data Visualization.
+I’m a software engineer with a background in food science and product development. I spent years designing experiments, analyzing complex data, and collaborating with brands like Kroger, State Garden, and Dole to bring innovative products to the fresh produce industry. Those experiences taught me how to tackle tough problems, work across teams, and translate data into actionable solutions. Software engineering lets me take that same curiosity and focus, building analytical tools and scalable systems that simplify workflows and have real-world impact. I’m excited to collaborate on projects where I can make a meaningful difference.
+
+I am currently working as a Software Engineer at Resilient Coders, where I build and deploy collaborative projects that solve real-world problems for various businesses and organizations. I am also a machine learning enthusiast with a huge love for JavaScript, React, Node.js, MongoDB, REST API and Data Visualization.
 
 Fun facts about me:
 
