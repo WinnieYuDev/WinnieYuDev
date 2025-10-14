@@ -28,7 +28,7 @@ Resume: [My Resume](https://github.com/user-attachments/files/22784813/SWE.Winni
 
 
 
-Languages learned: HTML5 | CSS | TypeScript | JavaScript | React | Node.js | Express.js | SQL | SQLite | Git | Bootstrap 
+Languages learned:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,nodejs,express,mongo,stackoverflow,vscode,wordpress)](https://skillicons.dev)
 
