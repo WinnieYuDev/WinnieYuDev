@@ -3,7 +3,7 @@
 
 Nice to meet you. My name is Winnie. 
 
-A full-stack software engineer from Boston | Product Developer | Food Scientist 
+A full-stack software engineer from Boston | Product Developer | Food Scientist | Avid Gamer and Gardener
 
 Revolutionizing the industry, one line of code at a time
 
