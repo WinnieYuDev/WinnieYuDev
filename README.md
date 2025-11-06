@@ -18,7 +18,7 @@ Fun facts about me:
 👾 Video game Lover \
 🌱 Urban gardener \
 🍲 Self-taught chef \
-🐯 Tigers are my favorite animal 
+❤️ Passionate about solving food insecurity
 
 # Skills and Experience
 
